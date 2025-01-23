@@ -1,4 +1,4 @@
-# ticTacToe
+# My Personal Website
 
-## This is a personal project, creating a playable Tic-Tac-Toe game
+## This is a personal website to showcase my skills and experince
 
